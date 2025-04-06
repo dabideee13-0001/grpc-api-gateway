@@ -1,0 +1,3 @@
+[submodule "protos"]
+	path = protos
+	url = git@github.com:dabideee13-0001/grpc-protos.git
